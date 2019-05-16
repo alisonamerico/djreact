@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Fullstack Application with Django and React",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisonamerico/djreact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alisonamerico/djreact/issues"
+  },
+  "homepage": "https://github.com/alisonamerico/djreact#readme"
+}
